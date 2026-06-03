@@ -1,7 +1,7 @@
 # UI-UX-EXP2
 
 ## Reg No : 212224230041
-
+## Name : Chandru M
 ## Aim
 
 To design a professional and modern logo for CodeCraft, representing creativity, software development, innovation, and digital transformation while establishing a strong and memorable brand identity across various platforms.
